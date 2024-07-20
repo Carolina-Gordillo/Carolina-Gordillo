@@ -1,3 +1,4 @@
+<img = "casa al mar.jpg>
 - 👋 Holam soy la M.A. Carolina-Gordillo
 - 👀 Actuamente me estoy interesada en prgramación de IA
 - 🌱 I’m currently learning ...
